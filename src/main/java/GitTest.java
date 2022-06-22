@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("pull commit2");
         System.out.println("push commit3");
+        System.out.println("pull test44");
     }
 }
